@@ -1,4 +1,4 @@
-# EAR (Event aggregator)
+# EAR (Event AggregatoR)
 
 ## Note and Disclaimer
 This project has been recently started and is not production ready. If you find this interesting and want to contribute in completing this to be production ready please join us and let me know.
@@ -25,4 +25,7 @@ This rule define aggregation of events based on related events. We have a core e
 
 ## Architecture
 ![image](https://github.com/goldenreflection/ear/assets/20452906/daac176d-b70a-48b4-a6a3-0fba1ea11634)
+
+## Data model of the project
+![image](https://github.com/goldenreflection/ear/assets/20452906/1308823f-a4eb-48d5-b8f8-0b31a537fc44)
 
